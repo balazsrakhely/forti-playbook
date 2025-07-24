@@ -1,0 +1,8 @@
+---
+roles:
+  - name: forti-role
+    src: https://github.com/balazsrakhely/forti-role
+
+collections:
+  - name: fortinet.fortimanager
+    version: "2.9.1"
