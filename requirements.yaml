@@ -4,7 +4,5 @@ roles:
     src: https://github.com/balazsrakhely/forti-role
 
 collections:
-  - name: ansible.netcommon
-    version: "7.2.0"
   - name: fortinet.fortimanager
-    version: "2.10.0"
+    version: "2.5.0"
